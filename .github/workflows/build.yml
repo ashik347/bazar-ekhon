@@ -21,5 +21,8 @@ jobs:
       - name: Install dependencies
         run: npm install
         
+      - name: Install EAS
+        run: npm install -g eas-cli
+        
       - name: Build APK
         run: eas build --platform android --profile preview --non-interactive --no-wait
