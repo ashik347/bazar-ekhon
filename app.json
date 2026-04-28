@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "বাজার এখন",
+    "slug": "bazarekhon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF5E6"
+    },
+    "android": {
+      "package": "com.bazarekhon.app",
+      "versionCode": 1
+    }
+  }
+}
