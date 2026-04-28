@@ -14,6 +14,11 @@
     "android": {
       "package": "com.bazarekhon.app",
       "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9825fa82-0e88-4c78-a99e-954c666b54b1"
+      }
     }
   }
 }
