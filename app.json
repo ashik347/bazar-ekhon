@@ -3,6 +3,11 @@
     "name": "বাজার এখন",
     "slug": "bazarekhon",
     "owner": "ashikrahman2590",
+    "extra": {
+      "eas": {
+        "projectId": "b8a7bc44-7450-401e-bf78-34ad157ef38c"
+      }
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
