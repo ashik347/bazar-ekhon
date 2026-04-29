@@ -15,6 +15,16 @@
     "android": {
       "package": "com.bazarekhon.app",
       "versionCode": 1
+    },
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "bb173445-f1c8-4982-8211-a98b1f44f29f"
+      }
     }
   }
 }
