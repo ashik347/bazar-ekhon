@@ -23,11 +23,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "owner": "ashikrahman2580",
-    "extra": {
-      "eas": {
-        "projectId": "449f39a3-f554-4e21-ad7f-2fd2b0998641"
-      }
-    }
+    "owner": "ashikrahman2580"
   }
 }
