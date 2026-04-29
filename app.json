@@ -2,10 +2,10 @@
   "expo": {
     "name": "বাজার এখন",
     "slug": "bazarekhon",
-    "owner": "ashikrahman2590",
+    "owner": "ashikrahman2580",
     "extra": {
       "eas": {
-        "projectId": "b8a7bc44-7450-401e-bf78-34ad157ef38c"
+        "projectId": "bb173445-f1c8-4982-8211-a98b1f44f29f"
       }
     },
     "version": "1.0.0",
