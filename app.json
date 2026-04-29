@@ -2,7 +2,7 @@
   "expo": {
     "name": "বাজার এখন",
     "slug": "bazarekhon",
-        "owner": "ashikrahman2590",
+    "owner": "ashikrahman2590",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,11 +15,6 @@
     "android": {
       "package": "com.bazarekhon.app",
       "versionCode": 1
-    },
-    "extra": {
-      "eas": {
-        "projectId": "9825fa82-0e88-4c78-a99e-954c666b54b1"
-      }
     }
   }
 }
