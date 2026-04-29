@@ -2,6 +2,7 @@
   "expo": {
     "name": "বাজার এখন",
     "slug": "bazarekhon",
+        "owner": "ashikrahman2590",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
